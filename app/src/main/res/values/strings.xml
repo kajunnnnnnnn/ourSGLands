@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">L12-Songs-CustomLV</string>
+    <string name="name">Name</string>
+    <string name="hint_title">Enter song Name here</string>
+    <string name="singers">Description</string>
+    <string name="hint_singers">Enter Description\' name here</string>
+    <string name="year">SquareKM</string>
+    <string name="hint_squarekm">SquareKM</string>
+    <string name="stars">Stars</string>
+    <string name="five">5</string>
+    <string name="four">4</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+
+    <string name="title_activity_main">Insert Name</string>
+    <string name="title_activity_second">Show List</string>
+    <string name="title_activity_third">Modify List</string>
+
+    <string name="id">Island ID</string>
+    <string name="btnShowList">Show List</string>
+    <string name="btnInsert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn5Stars">Show island with 5 stars</string>
+</resources>
